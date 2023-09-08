@@ -1,4 +1,4 @@
-# landingPages
+# Look Landing page
 
 Simple landing page of a specs product and the name of the product is 'Charlie'.
 <br/>
